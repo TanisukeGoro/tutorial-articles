@@ -9,3 +9,6 @@
 
 - fish と Tmux を使って良い感じのターミナル環境を構築する
   - https://github.com/TanisukeGoro/tutorial-articles/tree/extend_terminal_via_tmux_and_fish
+
+- DockerでLaravelの環境を構築し、Herokuへのデプロイを目指すためのチュートリアル
+  - https://github.com/TanisukeGoro/tutorial-articles/tree/develop_Laravel_on_Docker_and_deploy_to_Heroku
